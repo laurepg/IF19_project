@@ -8,7 +8,7 @@ L'objectif de ce projet a été de comparer 2 approches différentes (supervisé
 
 ## Utilisation
 L'utilisation de chaque fichier est intuitive est nécessite seulement l'exécution du code. Les fichiers permettant l'exécution de l'ACP ou d'une approche de machine learning sont les suivants :
-- acp.ipynb : Analyse en Composantes Principales (ACP)
-- kmeans.ipynb : Algorithme des K-Means
-- svm.ipynb : Algorithme SVM
+- `acp.ipynb` : Analyse en Composantes Principales (ACP)
+- `kmeans.ipynb` : Algorithme des K-Means
+- `svm.ipynb` : Algorithme SVM
 -  : Algorithme Random Forest 
